@@ -10,13 +10,13 @@ working on for your project week.
 
 ## You
 
-What do you care about?
+What do you care about? - Health, Welfare, Healthcare, Crime
 
 
-What do you know about?
+What do you know about?  Real Estate, sales, bjj, climbing, 
 
 
-What decisions do you face?
+What decisions do you face? Where to work
 
 
 ## Seven templates
@@ -25,13 +25,13 @@ Training Kit (https://learn.lambdaschool.com/ds/module/recedjanlbpqxic2r) explai
 
 Can you apply the templates to your topics? 
 
-1. Geographic Variation
+1. Geographic Variation - where is bjj most populer in the US, where is real estate the best value 
 
 
-2. Trend related to the news
+2. Trend related to the news - I've done a real good job of blocking most news sources, and filtering the news out of my life.
 
 
-3. Who does that?
+3. Who does that?  
 
 
 4. Answering a question people care about
